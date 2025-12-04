@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "No title",
+  "base_artist": "れをる",
+  "createdAt": "2025-12-04T06:24:44.045677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Story: No Title",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/01_Story__No_Title_Denzel_Curry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Song Has No Title",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/02_This_Song_Has_No_Title_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Title (Molly)",
+      "artist": "John Maus",
+      "has_synced": false,
+      "path": "select/03_No_Title_(Molly)_John_Maus.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Title (Molly)",
+      "artist": "John Maus",
+      "has_synced": true,
+      "path": "select/04_No_Title_(Molly)_John_Maus.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Title",
+      "artist": "Corbin",
+      "has_synced": true,
+      "path": "select/05_No_Title_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No title",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/06_No_title_Reol.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Song Has No Title - Remastered 2014",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/07_This_Song_Has_No_Title_-_Remastered_2014_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Song Has No Title (Remastered 2014)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/08_This_Song_Has_No_Title_(Remastered_2014)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No title",
+      "artist": "REOL レヲル",
+      "has_synced": true,
+      "path": "select/09_No_title_REOL_レヲル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No title (Seaside Remix)",
+      "artist": "Reol feat. ぬゆり",
+      "has_synced": true,
+      "path": "select/10_No_title_(Seaside_Remix)_Reol_feat._ぬゆり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No title Seaside Remix",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/11_No_title_Seaside_Remix_Reol.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Title (Molly) [2008]",
+      "artist": "John Maus",
+      "has_synced": true,
+      "path": "select/12_No_Title_(Molly)_[2008]_John_Maus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No title",
+      "artist": "れをる",
+      "has_synced": false,
+      "path": "select/pl_01_No_title_れをる.txt"
+    }
+  ]
+}
